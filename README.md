@@ -12,3 +12,5 @@ Project 3: Diabetes Prediction   : Support Vector Machine
 Project 4: House Prediction : XGBoost Regressor
 
 Project 5: Loan Status Prediction   : Support Vector Machine
+
+Project 6: Wine Quality Prediction : Random Forest Classifier

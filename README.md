@@ -10,3 +10,5 @@ Project 2: Fake News Prediction    : Logistic Regression
 Project 3: Diabetes Prediction   : Support Vector Machine
 
 Project 4: House Prediction : XGBoost Regressor
+
+Project 5: Loan Status Prediction   : Support Vector Machine

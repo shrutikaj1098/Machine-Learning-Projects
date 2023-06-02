@@ -14,3 +14,5 @@ Project 4: House Prediction : XGBoost Regressor
 Project 5: Loan Status Prediction   : Support Vector Machine
 
 Project 6: Wine Quality Prediction : Random Forest Classifier
+
+Project 7: Car Price Prediction : Linear and Lasso Regression

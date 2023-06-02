@@ -18,3 +18,5 @@ Project 6: Wine Quality Prediction : Random Forest Classifier
 Project 7: Car Price Prediction : Linear and Lasso Regression
 
 Project 8: Gold Price Prediction : Random Forest Regressor
+
+Project 9: Heart Disease Prediction : Logistic Regression

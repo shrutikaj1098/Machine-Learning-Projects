@@ -21,4 +21,6 @@ Project 8: Gold Price Prediction : Random Forest Regressor
 
 Project 9: Heart Disease Prediction : Logistic Regression
 
-Project 10: Credit Card Fraud Detection : Logistic regression
+Project 10: Credit Card Fraud Detection : Logistic Regression
+
+Project 11. Medical insurance Cost Prediction : Linear Regression

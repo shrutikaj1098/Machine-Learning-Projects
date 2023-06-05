@@ -28,3 +28,5 @@ Project 11: Medical insurance Cost Prediction : Linear Regression
 Project 12: Big Mart Sales Prediction : XGBoost Regressor
 
 Project 13: Customer Segmentation : K-Means Clustering
+
+Project 14: Parkinson's Disease Prediction   : Support Vector Machine

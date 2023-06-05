@@ -30,3 +30,5 @@ Project 12: Big Mart Sales Prediction : XGBoost Regressor
 Project 13: Customer Segmentation : K-Means Clustering
 
 Project 14: Parkinson's Disease Prediction   : Support Vector Machine
+
+Project 16: Calories Burnt Prediction : XGBoost Regressor

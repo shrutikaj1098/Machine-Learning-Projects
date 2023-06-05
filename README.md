@@ -31,4 +31,6 @@ Project 13: Customer Segmentation : K-Means Clustering
 
 Project 14: Parkinson's Disease Prediction   : Support Vector Machine
 
+Project 15: Titanic Survival Prediction : Logistic Regression
+
 Project 16: Calories Burnt Prediction : XGBoost Regressor
